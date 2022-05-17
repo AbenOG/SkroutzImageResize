@@ -8,3 +8,6 @@
 -
 # Bugs
 Για οποιοδήποτε bug η πρόβλημα αντιμετωπίζετε με το πρόγραμμα παρακαλώ να το αναφέρετε!
+
+# FYI
+Yes the code is spaghetti but I'll improve and polish soon! :)
